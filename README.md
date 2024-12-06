@@ -53,3 +53,5 @@ python manage.py migrate
 ## 6.Ejecutar el servidor de desarrollo
 
 python manage.py runserver
+
+--Este es el link del render: https://drfsimple-fohx.onrender.com
